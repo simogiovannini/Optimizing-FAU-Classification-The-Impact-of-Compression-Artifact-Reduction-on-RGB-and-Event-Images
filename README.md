@@ -1,0 +1,1 @@
+# Optimizing-FAU-Classification-The-Impact-of-Compression-Artifact-Reduction-on-RGB-and-Event-Images
